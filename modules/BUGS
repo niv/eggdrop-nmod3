@@ -1,0 +1,4 @@
+BUGS/FALLBACKS
+
+
+args is not passed as a list properly in aliased procs sent through sl_command or in bind-procs
